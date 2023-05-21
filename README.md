@@ -6,13 +6,13 @@ In this game, there is an opening page that will direct to the game page once th
 
 I have never used Xcode before, so I wanted to learn more about it. I also find mobile app development fascinating, so it was a good experience taking the time to learn more about it. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/h5B4KaqBHfQ)
 
 # Development Environment
 
-*Xcode 
-*SwiftUI
-*Github
+* Xcode 
+* SwiftUI
+* Github
 
 # Useful Websites
 
